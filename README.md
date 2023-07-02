@@ -13,4 +13,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=GustavoTrrs&icon=5&color=12)](https://visitcount.itsvg.in)
 
+<img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=gustavo.trrs&show_icons=true&bg_color=0D1117&text_color=C9D1D9&title_color=ffff&icon_color=8957e5&hide_border=true" />
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in/ ) -->
