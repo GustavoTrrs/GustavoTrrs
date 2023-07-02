@@ -13,9 +13,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=GustavoTrrs&icon=5&color=12)](https://visitcount.itsvg.in)
 
-<div align="left">
-<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luzin7&layout=compact&langs_count=7&bg_color=0D1117&text_color=C9D1D9&title_color=ffff&icon_color=8957e5&hide_border=true" />
-<img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=luzin7&show_icons=true&bg_color=0D1117&text_color=C9D1D9&title_color=ffff&icon_color=8957e5&hide_border=true" />
-</div
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in/ ) -->
